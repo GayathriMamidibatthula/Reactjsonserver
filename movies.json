@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "id": 1001,
+      "name": "Hyderabad Kids Fair 2021",
+      "region": "Hyderabad",
+      "date": "June 15th 2021",
+      "poster": "https://d2vvokdoqdb81s.cloudfront.net/event/media/357_Hyderabad%20Kids%20Fair.png"
+    },
+    {
+      "id": 1002,
+      "name": "Rally for Rivers",
+      "region": "TamilNadu",
+      "date": "May 1st 2020",
+      "poster": "https://static.ishaoutreach.org/static/assets/cauvery-calling/img/rally-logo.jpg"
+    },
+    {
+      "id": 1003,
+      "name": "Save Earth Run",
+      "region": "Mumbai",
+      "date": "April 1st 2021",
+      "poster": "https://static.meraevents.com/content/gallery/241910/medal1618839226.jpg"
+    },
+    {
+      "id": 1004,
+      "name": "Dandiya Night",
+      "region": "Gujarat",
+      "date": "Nov 18th 2020",
+      "poster": "https://st4.depositphotos.com/1052036/21887/v/1600/depositphotos_218875014-stock-illustration-couple-playing-dandiya-in-disco.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "Dussehra Mela",
+      "region": "Rajasthan",
+      "date": "October 21st 2018",
+      "poster": "https://thumbs.dreamstime.com/b/lord-ram-sita-laxmana-hanuman-ravana-dussehra-navratri-festival-india-poster-illustration-lord-ram-sita-laxmana-100176446.jpg"
+    },
+    {
+      "id": 1006,
+      "name": "Rang Barse",
+      "region": "Bangalore",
+      "date": "March 2nd 2018",
+      "poster": "https://i.pinimg.com/originals/fb/51/3c/fb513ce49272080050ae33d6c9e5a553.jpg"
+    },
+    {
+      "id": 1007,
+      "name": "New Year Party",
+      "region": "Mysore",
+      "date": "Dec 31st 2019",
+      "poster": "https://previews.123rf.com/images/articular/articular1910/articular191000030/132860635-2020-new-year-party-celebration-poster-template-illustration-with-lights-bulb-number-and-gold-christ.jpg"
+    },
+    {
+      "name": "Christmas Party",
+      "date": "25th Dec 2021",
+      "region": "Goa",
+      "poster": "https://i.pinimg.com/originals/4e/e8/32/4ee83210c7a91931628aa843a94de9ac.jpg",
+      "id": 1008
+    },
+    {
+      "name": "Summer Camp",
+      "date": "May 25th 2021",
+      "region": "Delhi",
+      "poster": "https://previews.123rf.com/images/premiumstock/premiumstock1704/premiumstock170400050/75865767-banner-poster-design-template-for-kids-summer-camp-activities.jpg",
+      "id": 1009
+    }
+  ]
+}
